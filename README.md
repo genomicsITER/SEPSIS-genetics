@@ -9,12 +9,13 @@ Since sepsis is a complex and heterogeneous disease, there is a lack of suscepti
 We performed a meta-analysis of two steps with patients from the GEN-SEP network recruited at two different times. This stage analyzed a total of 687 European sepsis patients (506 survivors and 181 deceased) and 7.5 million imputed variants.
 
 <p align="center">
-  <img src="https://github.com/genomicsITER/Sepsisgenetics/blob/master/images/Figure_sepsis_survival.png" width="auto"/>
+  <img src="https://github.com/genomicsITER/SEPSIS-genetics/blob/main/images/GEN-SEP_Sepsis-Survival.png" title="GEN-SEP Sepsis Survival" alt="GEN-SEP Sepsis Survival" style="width: 75%;"/>
 </p>
-<p><br></p>
-<!-- ![What is this](Figure_sepsis_survival.png) -->
+<p align="center">
+<b>Figure 1.</b> Sample sizes for genome-wide analyses.
+</p>
 
-**Sample sizes for genome-wide analyses**
+<br>
 
 ## Access to the results of this study
 To help advance sepsis research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data from the stage1 of the study by Hernandez-Beeftink T et al., 2022 (https://www.medrxiv.org/content/10.1101/2022.05.06.22274756v1) (476 MB) can be accessed after an internal assessment of formal requests received.
@@ -22,31 +23,18 @@ To help advance sepsis research and allow the wider research community to access
 ## What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS meta-analysis variant summary data with information for the following descriptors:
 
-   •	**CHR**
-   
-   •	**POS**
-      [According to GRCh37/hg19 reference]
-   
-   •	**SNP**
-   
-   •	**A1_REF**
-      [Reference allele]
-      
-   •	**A2_ALT**
-      [Effect allele]
-   
-   •  **PVALUE**
-      [This is the p value from the meta-analysis]
-   •  **COEF**
-      [This is the beta from the meta-analysis]
-      
-   •  **SECOEF**
-      [This is the standard error from the meta-analysis]
-       
-   •  **Model**
-      [Based on the significance of Cochran's Q, the meta-analysis shows the result of the fixed effects model (FE) or the random effects model (RE2, https://doi.org/10.1016/j.ajhg.2011.04.014)]       
-   •  **MAF**
-      [Minor allele frequency taken from step 1]
+<ul>
+<li><b>CHR</b>.</li>
+<li><b>POS</b>. According to GRCh37/hg19 reference</li>
+<li><b>SNP</b>.</li>
+<li><b>A1_REF</b>. Reference allele</li>
+<li><b>A2_ALT</b>. Effect allele</li>
+<li><b>PVALUE</b>. This is the p value from the meta-analysis</li>
+<li><b>COEF</b>. This is the beta from the meta-analysis</li>
+<li><b>SECOEF</b>. This is the standard error from the meta-analysis</li>
+<li><b>Model</b>. Based on the significance of Cochran's Q, the meta-analysis shows the result of the fixed effects model (FE) or the random effects model (RE2, https://doi.org/10.1016/j.ajhg.2011.04.014)</li>
+<li><b>MAF</b>. Minor allele frequency taken from step 1</li>
+</ul>
 
 ## Who should I contact for requesting access to the data?
 Requesters should contact **`cflores@ull.edu.es`** for requesting access to the data. Designated delegates of this collaborative effort will review the requests. Within a few days, an email with the instructions for data downloading will be obtained in response.
