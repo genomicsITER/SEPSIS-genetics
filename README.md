@@ -45,12 +45,12 @@ Requesters should provide a signed document including the following information:
 
 The document should explicitly state that the data requester also agrees to: use the data only as part of that indicated research, not redistribute the data outside the project without permission, acknowledge the provenance of the data in any dissemination of results.
 
-A template document for the request is [here](https://github.com/genomicsITER/Sepsisgenetics/blob/master/Request_template.txt).
+A template document for the request is [here](https://github.com/genomicsITER/SEPSIS-genetics/blob/main/templates/Request_template.txt).
 
 ## References
-Hernandez-Beeftink T, Guillen-Guio B, Lorenzo-Salazar JM, Corrales A, Suarez-Pajes E, Feng R, Rubio-RodrÃ­guez LA, Paynton ML, Cruz-Guerrero R, GarcÃ­a-Laorden MI, Prieto-GonzÃ¡lez M, RodrÃ­guez-PÃ©rez A, Carriedo D, Blanco J, AmbrÃ³s A, GonzÃ¡lez-Higueras E, Espinosa E, Muriel A, Tamayo E, Martin MM, Lorente L, DomÃ­nguez D, GarcÃ­a de Lorenzo A, Giannini HM, Reilly JP, Jones TK, AÃ±Ã³n JM, Soro M, Carracedo A, Wain LV, Meyer NJ, Villar J and Flores C on behalf of the Genetics of Sepsis (GEN-SEP) Network. A Genome-Wide Association Study of Survival in Patients with Sepsis. medRxiv 2022.05.06.22274756v1; doi: https://doi.org/10.1101/2022.05.06.22274756.
+Hernandez-Beeftink T, Guillen-Guio B, Lorenzo-Salazar JM, Corrales A, Suarez-Pajes E, Feng R, Rubio-Rodríguez LA, Paynton ML, Cruz-Guerrero R, García-Laorden MI, Prieto-González M, Rodríguez-Pérez A, Carriedo D, Blanco J, Ambrós A, González-Higueras E, Espinosa E, Muriel A, Tamayo E, Martin MM, Lorente L, Domínguez D, García de Lorenzo A, Giannini HM, Reilly JP, Jones TK, Añón JM, Soro M, Carracedo A, Wain LV, Meyer NJ, Villar J, and Carlos Flores on behalf of the Genetics of Sepsis (GEN-SEP) Network. <i>A Genome-Wide Association Study of Survival in Patients with Sepsis</i>. <b>medRxiv</b> 2022.05.06.22274756v1; doi: https://doi.org/10.1101/2022.05.06.22274756.
 
-Han B, Eskin E. Random-effects model aimed at discovering associations in meta-analysis of genome-wide association studies. Am J Hum Genet. 2011 May 13;88(5):586-98. doi: 10.1016/j.ajhg.2011.04.014. PMID: 21565292; PMCID: PMC3146723.
+Han B, Eskin E. <i>Random-effects model aimed at discovering associations in meta-analysis of genome-wide association studies</i>. <b>Am J Hum Genet.</b> 2011 May 13;88(5):586-98. doi: 10.1016/j.ajhg.2011.04.014. PMID: 21565292; PMCID: PMC3146723.
 
 <p align="right">
   <a href="#Sepsisgenetics" title="Up">
