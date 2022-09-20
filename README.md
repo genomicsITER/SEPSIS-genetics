@@ -1,4 +1,5 @@
 <a name="Sepsisgenetics"></a>
+
 # Genetic studies of sepsis
 Sepsis is a life-threatening clinical syndrome of physiological, pathological, and biochemical abnormalities caused by a dysregulated host response to an infection. Sepsis is accompanied by multiple organ dysfunction and is the leading cause of mortality in adults in Intensive Care Units (ICU). There is a lack of targeted therapies or effective methods for predicting prognosis or risk of death among these patients.
 
@@ -53,6 +54,6 @@ Han B, Eskin E. Random-effects model aimed at discovering associations in meta-a
 
 <p align="right">
   <a href="#Sepsisgenetics" title="Up">
-    <img src="https://github.com/genomicsITER/Sepsisgenetics/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/SEPSIS-genetics/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
