@@ -19,7 +19,7 @@ We performed a meta-analysis of two steps with patients from the GEN-SEP network
 <br>
 
 ## Access to the results of this study
-To help advance sepsis research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data from the stage1 of the study by Hernandez-Beeftink T et al., 2022 (https://www.medrxiv.org/content/10.1101/2022.05.06.22274756v1) (476 MB) can be accessed after an internal assessment of formal requests received.
+To help advance sepsis research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data from the stage1 of the study by Hernandez-Beeftink T et al. (2022) (https://www.medrxiv.org/content/10.1101/2022.05.06.22274756v1) (filesize 476 MB) can be accessed after an internal assessment of formal requests received.
 
 ## What type of results would be made available?
 No individual level data will be made available. Granted requests will have access to a file with the GWAS meta-analysis variant summary data with information for the following descriptors:
