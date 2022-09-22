@@ -34,7 +34,7 @@ No individual level data will be made available. Granted requests will have acce
 <li><b>COEF</b>. This is the beta from the meta-analysis</li>
 <li><b>SECOEF</b>. This is the standard error from the meta-analysis</li>
 <li><b>Model</b>. Based on the significance of Cochran's Q, the meta-analysis shows the result of the fixed effects model (FE) or the random effects model (RE2)(4)</li>
-<li><b>MAF</b>. Minor allele frequency taken from stage 1</li>
+<li><b>MAF</b>. Minor allele frequency taken from the first period of stage 1</li>
 </ul>
 
 ## Who should I contact for requesting access to the data?
